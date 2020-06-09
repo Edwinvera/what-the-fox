@@ -29,21 +29,17 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 #### MVP 
 *These are examples only. Replace with your own MVP features.*
 
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
+- User will be interact with a Fox.
+- Fox will ask some questions and the use will be able to imput information.
+- A picture af a sprit fox will generate onto the page when the user is done.
 
 #### PostMVP  
-*These are examples only. Replace with your own Post-MVP features.*
-
-- Add second API
-- Use local storage to save user favorites
+- Add second API: Random fox facts?
+- I would like to add mouseover events where fox sounds play when you mouseover certain parts of the page. 
 
 ## Project Schedule
 
 This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
-
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
 
 |  Day | Deliverable | Status
 |---|---| ---|
