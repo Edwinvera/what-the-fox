@@ -18,8 +18,9 @@ link: "http://randomfox.ca/?i=29"
 }
 
 ## Wireframes
-
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
+Page 1: Intro page that asks the user a few questions to generate spirit fox.
+Page 2: Generates spirit fox.
+https://wireframe.cc/pro/pp/7367c1067349530
 
 ### MVP/PostMVP
 
