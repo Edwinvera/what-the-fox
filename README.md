@@ -39,7 +39,7 @@ This schedule will be used to keep track of your progress throughout the week an
 |  Day | Deliverable | Status
 |---|---| ---|
 |June 8| Project Prompt | Complete
-|June 9| Wireframes / Priority Matrix / Timeframes | Incomplete
+|June 9| Wireframes / Priority Matrix / Timeframes | Complete
 |June 10| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |June 11| Initial Clickable Model  | Incomplete
 |June 12| MVP | Incomplete
@@ -54,13 +54,14 @@ https://imgur.com/a/3qULEdm
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Adding Form | H | 6hrs| 0hrs | 0hrs |
+| Working with API | M | 3hrs| 0hrs | 0hrs |
+| Styling | H | 6hrs| 0hrs | 0hrs |
+| Testing | H | 4hrs| 0hrs | 0hrs |
+| Post MVP | M | 6hrs| 0hrs | 0hrs |
+| Total | H | 25hrs| 0hrs | 0hrs |
 
-## Code Snippet
-
-Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  
+## Code Snippet 
 
 ```
 function reverse(string) {
