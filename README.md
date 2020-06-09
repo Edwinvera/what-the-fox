@@ -46,7 +46,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|June 8| Project Prompt | Incomplete
+|June 8| Project Prompt | Complete
 |June 9| Wireframes / Priority Matrix / Timeframes | Incomplete
 |June 10| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |June 11| Initial Clickable Model  | Incomplete
