@@ -41,7 +41,7 @@ This schedule will be used to keep track of your progress throughout the week an
 |June 8| Project Prompt | Complete
 |June 9| Wireframes / Priority Matrix / Timeframes | Complete
 |June 10| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|June 11| Initial Clickable Model  | Incomplete
+|June 11| Initial Clickable Model  | Complete
 |June 12| MVP | Incomplete
 |June 15| Present | Incomplete
 
@@ -54,18 +54,26 @@ https://imgur.com/a/3qULEdm
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 6hrs| 0hrs | 0hrs |
-| Working with API | M | 3hrs| 0hrs | 0hrs |
+| Adding Form | H | 6hrs| 3hrs | 3hrs |
+| Working with API | M | 3hrs| 6hrs | 6hrs |
 | Styling | H | 6hrs| 0hrs | 0hrs |
 | Testing | H | 4hrs| 0hrs | 0hrs |
 | Post MVP | M | 6hrs| 0hrs | 0hrs |
-| Total | H | 25hrs| 0hrs | 0hrs |
+| Total | H | 25hrs| 9hrs | 9hrs |
 
 ## Code Snippet 
 
 ```
-function reverse(string) {
-	// here is the code to reverse a string of text
+async function getFox() {
+  let response = await axios.get(randomFox)
+
+  let foxpix = response.data.image
+  let helloFren = `Hello fren! My name is ${inputFruit.value}y ${inputSmoosh.value}z. I hail from a far away land called San ${inputVaca.value}. I am your Spirit Fox. Floof Furrever.`
+  console.log(helloFren)
+
+  fox.innerHTML += `
+  <img src= ${foxpix}>
+  <p>${helloFren}<p>`
 }
 ```
 
