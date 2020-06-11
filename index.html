@@ -4,36 +4,50 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script defer src="./script.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   <link rel="stylesheet" href="style.css" type="text/css" media="screen" title="no title" charset="utf-8">
   <title>wHaT tHe FoX?!</title>
 </head>
 
-<body>
+<body class= 'container1'>
 
-  <h1>wHaT tHe FoX?!</h1>
-    <h3>by Ed Vera</h3>
-
-  <div class= 'intro'>
-    <p>"Hey?! Fancy Meeting You Here! -floof- I'm Luckee the Sad Fox...-floof-. Don't mind ol' Turee down there, -floof-. Now let's meet your spirit fox!"</p>
+  <div class= 'box1'>
+    <h1>wHaT tHe FoX?!</h1>
+      <h3>by Ed Vera</h3>
   </div>
 
-  <div class= 'answers'>
-    <p>Something Smooshy?<input type= 'text' id= 'soft' placeholder= 'Smoosh'></p>
-    <p>Fav Color?<input type= 'text' id= 'favcolor' placeholder= 'Favorite Color'></p>
-    <p>Fav Froot?<input type= 'text' id= 'favfruit' placeholder= 'Froots'></p>
-    <p>Fav Vacay?<input type= 'text' id= 'vacay' placeholder= 'Vacay yay'></p>
+<section class= 'box2'>
+  <div class= 'intro'>
+    <p>"Hey?! fancy meeting you here!<span>-floof-</span>
+      <br>I'm Luckee the Mad Fox...<span>-floof-</span><br>
+       Don't mind ol' Turee down there...<span>-floof-</span>.<br>
+       Now let's meet your Spirit Fox!"</p>
+  </div>
+
+  <div class= 'inputPanel'>
+    <p>Sumtin Smushy?   <input type= 'text' id= 'soft' placeholder= 'Smoosh'></p>
+    <p>Fav Color?   <input type= 'text' id= 'favcolor' placeholder= 'Favorite Color'></p>
+    <p>Fav Froot?   <input type= 'text' id= 'favfruit' placeholder= 'Froots'></p>
+    <p>Fav Vacay?    <input type= 'text' id= 'vacay' placeholder= 'Vacay yay'></p>
     <button id= 'generate'>Generate Spirit Fox</button>
   </div>
 
   <div class= 'sad-fox'>
-    <img src= 'https://imgur.com/a/7PIR6hW' alt="Sad Fox">
+    <img src= 'sadfox.jpg' alt="Sad Fox">
+  </div>
+</section>
+
+  <div class= "outputPanel">
+    <p id="foxSpeech"></p>
   </div>
 
-  <div class= 'weird-fox'>
-    <img src= 'https://imgur.com/a/zADnRGR' alt="Weird Fox">
+  <div class= 'weirdfox'>
+    <img src= 'weirdfox.jpg' alt="Weird Fox">
   </div>
 
+  <footer>
     <a href='Https://en.wikipedia.org/wiki/Fox'>Floofipedia</a>
+  </footer>
   
   </body>
 

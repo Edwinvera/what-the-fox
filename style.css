@@ -1,0 +1,59 @@
+body {
+  background-color: lightsalmon;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+.container1 {
+  display: flex;
+  border: 10px solid maroon;
+  flex-direction: column;
+}
+
+.container2 {
+
+}
+
+.box1 {
+  border: 5px solid maroon;
+}
+
+.box2 {
+  display: flex;
+  border: 5px solid maroon;
+}
+
+.intro {
+  display: flex;
+  border: 5px solid maroon;
+  text-align: center;
+}
+
+.inputPanel {
+  border: 5px solid maroon;
+  text-align: justify;
+}
+
+#generate {
+  align-content: center;
+  margin: 0 auto;
+}
+
+.outputPanel {
+
+}
+
+.sad-fox {
+  border: 5px solid maroon;
+}
+
+.weird-fox {
+  border: 5px solid maroon;
+}
+
+footer {
+  border: 5px solid maroon;
+}
