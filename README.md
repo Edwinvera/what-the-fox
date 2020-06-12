@@ -40,9 +40,9 @@ This schedule will be used to keep track of your progress throughout the week an
 |---|---| ---|
 |June 8| Project Prompt | Complete
 |June 9| Wireframes / Priority Matrix / Timeframes | Complete
-|June 10| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|June 10| Core Application Structure (HTML, CSS, etc.) | Complete
 |June 11| Initial Clickable Model  | Complete
-|June 12| MVP | Incomplete
+|June 12| MVP | Complete
 |June 15| Present | Incomplete
 
 ## Priority Matrix
