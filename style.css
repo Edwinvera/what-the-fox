@@ -1,7 +1,8 @@
 .body-box {
   display: flex;
-  background-color: lightsalmon;
+  background-color: #FFC09F;
   flex-direction: column;
+  border: 20px solid #FA92A4;
 }
 
 h1 {
@@ -16,27 +17,17 @@ h3 {
   text-align: center;
 }
 
-.head-box {
-  border: 3px solid maroon;
-}
-
 section {
   display: flex;
   flex-direction: row;
-  border: 3px solid maroon;
+  justify-content: space-around;
   text-align: justify;
-}
-
-.intro {
-  text-align: justify;
-  font-family: 'Indie Flower', cursive;
-  font-size: 25px;
 }
 
 .inputPanel {
-  text-align: left;
+  text-align: center;
   font-family: 'Indie Flower', cursive;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 #generate {
@@ -51,6 +42,15 @@ section {
 .weird-fox {
   
 }
+
+.fox-div {
+
+}
+
+/* #foxspeech {
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+} */
 
 footer {
   font-family: 'Indie Flower', cursive;
