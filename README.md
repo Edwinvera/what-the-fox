@@ -77,3 +77,6 @@ async function getFox() {
 
 ## Change Log
  Not many changes other than an attempt to try to reset the picture. 
+
+ ## Deployed
+ https://edwinvera.github.io/what-the-fox/
