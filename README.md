@@ -56,10 +56,10 @@ https://imgur.com/a/3qULEdm
 | --- | :---: |  :---: | :---: | :---: |
 | Adding Form | H | 6hrs| 3hrs | 3hrs |
 | Working with API | M | 3hrs| 6hrs | 6hrs |
-| Styling | H | 6hrs| 0hrs | 0hrs |
-| Testing | H | 4hrs| 0hrs | 0hrs |
-| Post MVP | M | 6hrs| 0hrs | 0hrs |
-| Total | H | 25hrs| 9hrs | 9hrs |
+| Styling | H | 6hrs| 6hrs | 6hrs |
+| Testing | H | 4hrs| 2hrs | 6hrs |
+| Post MVP | M | 6hrs| 6hrs | 6hrs |
+| Total | H | 25hrs| 20hrs | 27hrs |
 
 ## Code Snippet 
 
@@ -78,4 +78,4 @@ async function getFox() {
 ```
 
 ## Change Log
- Use this section to document what changes were made and the reasoning behind those changes.
+ Not many changes other than an attempt to try to reset the picture. 
