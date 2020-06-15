@@ -25,16 +25,14 @@ https://wireframe.cc/pro/pp/7367c1067349530
 #### MVP
 
 - User will be greeted with friendly Fox.
-- Fox will ask some questions and the user will be able to input information.
-- A picture af a spirit fox will generate onto the page when the user is done.
+- Fox will ask some questions and the user will be able to input some information.
+- A picture and a story af a spirit fox will generate onto the page when the user is done.
 
 #### PostMVP  
 - Add second API: Random fox facts?
 - I would also like to add a mouseover event where fox sounds play.
 
-## Project Schedule
-
-This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
+## Project Schedule 
 
 |  Day | Deliverable | Status
 |---|---| ---|
@@ -59,7 +57,7 @@ https://imgur.com/a/3qULEdm
 | Styling | H | 6hrs| 6hrs | 6hrs |
 | Testing | H | 4hrs| 2hrs | 6hrs |
 | Post MVP | M | 6hrs| 6hrs | 6hrs |
-| Total | H | 25hrs| 20hrs | 27hrs |
+| Total | H | 25hrs| 23hrs | 27hrs |
 
 ## Code Snippet 
 
