@@ -11,7 +11,7 @@ async function getFox() {
   let response = await axios.get(randomFox)
 
   let foxpix = response.data.image
-  let helloFren = `Hello fren! My name is ${inputFruit.value}y ${inputSmoosh.value}z. I hail from a far away land called San ${inputVaca.value}. I am your Spirit Fox. Floof Furrever.`
+  let helloFren = `Hello fren! My name is ${inputFruit.value}y ${inputSmoosh.value}z. I hail from a far away land called ${inputColor.value} ${inputVaca.value}. I am your Spirit Fox. Floof Furrever.`
   console.log(helloFren)
 
   fox.innerHTML += `
