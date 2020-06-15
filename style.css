@@ -9,12 +9,14 @@ h1 {
   font-size: 50px;
   font-family: 'Indie Flower', cursive;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 h3 {
   font-size: 20px;
   font-family: 'Indie Flower', cursive;
   text-align: center;
+  margin-bottom: 150px ;
 }
 
 section {
@@ -36,22 +38,14 @@ section {
 }
 
 .sad-fox {
-  
+  border: 20px solid #FA92A4;;
 }
 
-.weird-fox {
-  
+.weirdfox {
+  justify-content: space-around;
 }
-
-.fox-div {
-
-}
-
-/* #foxspeech {
-  font-family: 'Indie Flower', cursive;
-  font-size: 40px;
-} */
 
 footer {
   font-family: 'Indie Flower', cursive;
+  margin: 0 auto;
 }

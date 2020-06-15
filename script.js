@@ -16,7 +16,7 @@ async function getFox() {
 
   fox.innerHTML += `
   <img src= ${foxpix}>
-  <p>${helloFren}<p>`
+  <p style= "font-family: 'Indie Flower', cursive; text-align: center; font-size: 50px">${helloFren}<p>`
 }
 
 button.addEventListener('click', getFox)
